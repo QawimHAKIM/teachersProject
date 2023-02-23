@@ -1,0 +1,12 @@
+2023-02-08 21:38:43,770 - logger File -INFO - user is on retail website
+2023-02-08 21:38:43,774 - logger File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-02-08 21:38:44,014 - logger File -INFO - user searched for product pokemon
+2023-02-08 21:38:44,113 - logger File -INFO - the product is displayed on home page
+2023-02-08 21:47:03,857 - logger File -INFO - user is on retail website
+2023-02-08 21:47:03,865 - logger File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-02-08 21:47:04,080 - logger File -INFO - user searched for product pokemon
+2023-02-08 21:47:04,163 - logger File -INFO - the product is displayed on home page
+2023-02-09 13:37:42,949 - logger File -INFO - user is on retail website
+2023-02-09 13:37:42,958 - logger File -INFO - Actual Title React App Equals  ExpectedTitle React App
+2023-02-09 13:37:43,230 - logger File -INFO - user searched for product pokemon
+2023-02-09 13:37:43,309 - logger File -INFO - the product is displayed on home page
